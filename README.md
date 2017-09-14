@@ -1,1 +1,1 @@
-# netology-lesson6
+# stroky-massivy
